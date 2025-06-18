@@ -29,6 +29,20 @@ python main.py
 ```
 Suivez les instructions affichées pour gérer les appels et modifier les fichiers Excel.
 
+## PS : utiliser le .venv déja générer
+Sous windows (cmd):
+```bash
+.\.venv\Scripts\activate
+```
+Sous Powershell:
+```bash
+.\.venv\Scripts\Activate.ps1
+```
+Sous Linux/macOS:
+```bash
+source .venv/bin/activate
+```
+
 ## 🤝 Contribution
 Les contributions sont les bienvenues ! 🚀  
 Si vous souhaitez améliorer ce projet, créez une **pull request** ou ouvrez une **issue**.
