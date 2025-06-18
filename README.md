@@ -43,10 +43,6 @@ Sous Linux/macOS:
 source .venv/bin/activate
 ```
 
-## 🤝 Contribution
-Les contributions sont les bienvenues ! 🚀  
-Si vous souhaitez améliorer ce projet, créez une **pull request** ou ouvrez une **issue**.
-
 ## 📜 Licence
 Ce projet est sous **licence MIT**.
 
